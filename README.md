@@ -1,2 +1,2 @@
-# MAJOR
-MAJOR
+# MINOR
+MINOR
